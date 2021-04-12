@@ -260,7 +260,7 @@ galculator
 #geany
 gimp
 gmrun
-gsimplecal
+#gsimplecal
 guvcview
 imagemagick
 inkscape
@@ -452,17 +452,18 @@ neofetch
 numix-gtk-theme-git
 pamac-all
 #pamac-aur
+paru-bin
 peek
 pulseaudio-equalizer-ladspa
 #pyakm
 python-pyparted
 python-pywal
 scour
-screenkey-git
+#screenkey-git
 sublime-text-dev
 the_platinum_searcher-bin
 tmux
-trizen
+#trizen
 urxvt-perls
 urxvt-resize-font-git
 wttr
@@ -522,6 +523,7 @@ arcolinux-neofetch-git
 #arcolinux-obmenu-generator-minimal-git
 #arcolinux-obmenu-generator-xtended-git
 #arcolinux-openbox-themes-git
+arcolinux-paru-git
 arcolinux-pipemenus-git
 #arcolinux-plank-git
 #arcolinux-plank-themes-git
