@@ -617,7 +617,7 @@ arcolinux-config-all-desktops-git
 #arcolinux-config-qtile-git
 #arcolinux-config-spectrwm-git
 #arcolinux-config-ukui-git
-#arcolinux-config-xfce-git
+arcolinux-config-xfce-git
 #arcolinux-config-xmonad-git
 #arcolinux-config-xtended-git
 
@@ -625,12 +625,13 @@ arcolinux-config-all-desktops-git
 #                           ARCOLINUX DCONF FOLDER
 ###########################################################################
 
+arcolinux-dconf-all-desktops-git
 #arcolinux-awesome-dconf-git
 #arcolinux-bspwm-dconf-git
 #arcolinux-budgie-dconf-git
 #arcolinux-cinnamon-dconf-git
 #arcolinux-cwm-dconf-git
-arcolinux-dconf-git
+#arcolinux-dconf-git
 #arcolinux-deepin-dconf-git
 #arcolinux-dwm-dconf-git
 #arcolinux-enlightenment-dconf-git
@@ -866,3 +867,4 @@ xfce4-panel-profiles
 nvidia
 nvidia-utils
 nvidia-settings
+arcolinuxb-installer-git
