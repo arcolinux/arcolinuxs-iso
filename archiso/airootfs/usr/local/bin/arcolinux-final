@@ -54,5 +54,4 @@ hardcode-fixer
 echo "#################################"
 echo "End arcolinux-final"
 echo "#################################"
-rm /usr/local/bin/arcolinux-all-cores
 rm /usr/local/bin/arcolinux-final

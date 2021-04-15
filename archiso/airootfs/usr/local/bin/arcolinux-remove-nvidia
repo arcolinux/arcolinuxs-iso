@@ -35,12 +35,8 @@ if [[ $selection == "free" ]]; then
 	pacman -R --noconfirm nvidia nvidia-utils nvidia-settings
 fi
 
-#systemctl disable arcolinux-remove-nvidia
-#rm /etc/systemd/system/arcolinux-remove-nvidia.service
-
 echo "#################################"
 echo "End arcolinux-remove-nvidia"
 echo "End remove-nvidia"
 echo "#################################"
-#rm /usr/local/bin/arcolinux-remove-nvidia
-
+rm /usr/local/bin/arcolinux-remove-nvidia
