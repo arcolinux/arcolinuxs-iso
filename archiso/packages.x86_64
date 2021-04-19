@@ -287,13 +287,14 @@ variety
 adobe-source-sans-pro-fonts
 awesome-terminal-fonts
 noto-fonts
-#ttf-bitstream-vera
+ttf-bitstream-vera
 ttf-dejavu
 ttf-droid
 ttf-hack
-#ttf-inconsolata
-#ttf-liberation
+ttf-inconsolata
+ttf-liberation
 ttf-roboto
+ttf-roboto-mono
 ttf-ubuntu-font-family
 
 ###icons
@@ -337,7 +338,7 @@ gparted
 #gtop
 hardinfo
 #hddtempdisk
-#htop
+htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -372,7 +373,7 @@ ripgrep
 #rxvt-unicode
 #simple-scan
 #shotwell
-#speedtest-cli-git
+speedtest-cli-git
 #telegram-desktop
 #timeshift
 #tlp
