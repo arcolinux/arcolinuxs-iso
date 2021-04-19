@@ -190,7 +190,7 @@ blueberry
 bluez
 bluez-libs
 bluez-utils
-#bluez-firmware
+bluez-firmware
 pulseaudio-bluetooth
 
 ###network
@@ -278,7 +278,7 @@ variety
 #vlc
 
 ###conky
-jq
+#jq
 #lm_sensors
 
 ###cursors
@@ -315,7 +315,7 @@ bash-completion
 #baobab
 #catfish
 #cronie
-dconf-editor
+#dconf-editor
 #dex
 #discord
 #dmidecode
@@ -338,7 +338,7 @@ gparted
 #gtop
 hardinfo
 #hddtempdisk
-htop
+#htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -360,12 +360,12 @@ p7zip
 polkit
 polkit-gnome
 #python2-dbus
-python2-xdg
+#python2-xdg
 #qt4
 qt5ct
 #qt5-styleplugins
 #qt5-tools
-qt5-webkit
+#qt5-webkit
 #powertop
 #redshift
 ripgrep
@@ -373,11 +373,11 @@ ripgrep
 #rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
-#timeshift
+#speedtest-cli-git
 #telegram-desktop
+#timeshift
 #tlp
-tree
+#tree
 #ufw
 #gufw
 unace
@@ -511,8 +511,8 @@ arcolinux-local-applications-git
 #arcolinux-local-applications-plasma-hide-git
 arcolinux-local-xfce4-git
 #arcolinux-logo-git
-arcolinux-logout-git
-arcolinux-logout-themes-git
+#arcolinux-logout-git
+#arcolinux-logout-themes-git
 #arcolinux-lxqt-applications-add-git
 #arcolinux-lxqt-applications-hide-git
 arcolinux-mirrorlist-git
@@ -549,7 +549,7 @@ arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
 arcolinux-wallpapers-git
 #arcolinux-wallpapers-lxqt-dual-git
-#arcolinux-xfce-panel-profiles-git
+arcolinux-xfce-panel-profiles-git
 #arcolinux-xmobar-git
 arcolinux-zsh-git
 
@@ -870,3 +870,4 @@ nvidia-settings
 arcolinuxb-installer-git
 xfce4
 xfce4-goodies
+arcolinux-meta-logout

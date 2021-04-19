@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arcolinux-x"
-iso_label="arcolinux-x-v21.05.4"
+iso_name="arcolinuxx"
+iso_label="arcolinuxx-v21.05.4"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
 iso_version="v21.05.4"
