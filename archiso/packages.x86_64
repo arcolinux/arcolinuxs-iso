@@ -514,6 +514,7 @@ arcolinux-local-xfce4-git
 #arcolinux-logout-themes-git
 #arcolinux-lxqt-applications-add-git
 #arcolinux-lxqt-applications-hide-git
+arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
 #arcolinux-nitrogen-git
@@ -863,10 +864,9 @@ menulibre
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
+arcolinuxb-installer-git
 nvidia
 nvidia-utils
 nvidia-settings
-arcolinuxb-installer-git
 xfce4
 xfce4-goodies
-arcolinux-meta-logout
