@@ -865,7 +865,7 @@ menulibre
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
-arcolinuxb-installer-git
+#arcolinuxb-installer-git
 nvidia
 nvidia-utils
 nvidia-settings
