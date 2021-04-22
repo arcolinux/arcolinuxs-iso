@@ -315,7 +315,7 @@ bash-completion
 #baobab
 #catfish
 #cronie
-#dconf-editor
+dconf-editor
 #dex
 #discord
 #dmidecode
