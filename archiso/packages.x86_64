@@ -385,7 +385,7 @@ qt5ct
 #redshift
 ripgrep
 #rofi
-#rxvt-unicode
+rxvt-unicode
 #simple-scan
 #shotwell
 speedtest-cli-git
@@ -479,8 +479,8 @@ python-pyparted
 #sublime-text-dev
 #the_platinum_searcher-bin
 #trizen
-#urxvt-perls
-#urxvt-resize-font-git
+urxvt-perls
+urxvt-resize-font-git
 #wttr
 yad
 #yakuake
