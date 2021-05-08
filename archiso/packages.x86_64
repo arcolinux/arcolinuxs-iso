@@ -407,7 +407,7 @@ xapp
 #xdotool
 xdg-desktop-portal-gtk
 #youtube-dl
-#zenity
+zenity
 zsh
 zsh-completions
 zsh-syntax-highlighting
