@@ -308,7 +308,7 @@ variety
 
 ###fonts
 adobe-source-sans-fonts
-awesome-terminal-fonts
+#awesome-terminal-fonts
 noto-fonts
 #ttf-bitstream-vera
 ttf-dejavu
@@ -334,7 +334,7 @@ kvantum-qt5
 
 ###utilities
 #arandr
-asciinema
+#asciinema
 bash-completion
 #baobab
 #catfish
@@ -397,7 +397,7 @@ ripgrep
 rxvt-unicode
 #simple-scan
 #shotwell
-speedtest-cli-git
+#speedtest-cli-git
 #telegram-desktop
 #timeshift
 #tlp
@@ -463,8 +463,8 @@ mkinitcpio-openswap
 
 ###utilities-repo
 alacritty
-appstream
-archiso
+#appstream
+#archiso
 conky-lua-archers
 downgrade
 #font-manager-git
