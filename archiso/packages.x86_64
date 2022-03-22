@@ -484,7 +484,7 @@ inxi
 mintstick-git
 neofetch
 #numix-gtk-theme-git
-pamac-all
+#pamac-all
 #pamac-aur
 paru-bin
 #peek
@@ -934,3 +934,4 @@ menulibre
 ###########################################################################
 xfce4
 xfce4-goodies
+arcolinux-pamac-all
