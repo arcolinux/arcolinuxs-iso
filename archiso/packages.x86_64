@@ -362,7 +362,7 @@ mlocate
 #nomacs
 oh-my-zsh-git
 p7zip
-pkgfile
+#pkgfile
 #plank
 #playerctl
 polkit
@@ -447,7 +447,7 @@ mkinitcpio-openswap
 
 ###utilities-repo
 alacritty
-appstream
+#appstream
 #archiso
 conky-lua-archers
 downgrade
