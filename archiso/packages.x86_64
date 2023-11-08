@@ -133,6 +133,7 @@ xl2tpd
 aic94xx-firmware
 dialog
 dnsutils
+libadwaita-without-adwaita-git
 linux-firmware-qlogic
 linux-headers
 logrotate
@@ -917,4 +918,3 @@ menulibre
 ###########################################################################
 xfce4
 xfce4-goodies
-libadwaita-without-adwaita-git
